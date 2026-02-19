@@ -5,6 +5,9 @@ The **Weather Analytics Dashboard** is an interactive Power BI report designed t
 It integrates with a Weather API to display **current weather**, a **7-day forecast**, **Air Quality Index (AQI)**, and **city-wise comparisons**.  
 This dashboard helps users monitor weather trends, plan ahead, and analyze environmental factors such as air quality and rainfall probability.
 
+<img width="1072" height="628" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/abfcf8b4-71ca-4231-9f12-7bdf7195478b" />
+<img width="1072" height="628" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/abfcf8b4-71ca-4231-9f12-7bdf7195478b" />
+
 ---
 
 ## <span style="color:blue;">File Information</span>
